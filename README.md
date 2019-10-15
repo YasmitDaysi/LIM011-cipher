@@ -133,9 +133,10 @@ Estos puntos los presentarás en el `README.md`.
 **`README.md`**:
 
 Debe contener lo siguiente:
-* Cifrado Cesar.
-* "Cifrado Cesar" es una app que permite cifrar y descifrar el mensaje ingresado por el usuario con la cantidad de desplazamiento a elección. 
-![ImagenFinal](https://user-images.githubusercontent.com/52015985/66841163-e1f56280-ef2e-11e9-89d3-c34d54f25956.png)
+* Un título con el nombre de tu proyecto. 
+   Cifrado Cesar.
+* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
+  "Cifrado Cesar" es una app que permite cifrar y descifrar el mensaje ingresado por el usuario con la cantidad de   desplazamiento a elección. 
 * La imagen final de tu proyecto.
 
 * Investigación UX:
@@ -152,11 +153,12 @@ Debe contener lo siguiente:
   3. Luego colocarás la foto de tu primer prototipo en papel.
 ![prototipado1](https://user-images.githubusercontent.com/52015985/66838134-c471ca00-ef29-11e9-8764-e4bec2f62512.jpeg)
 
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
-    1er Diseño: Fue descartado por que era  confuso, se decifraba automáticamente el texto ingresado y solo tenia un boton  de cifrar.
+  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.                                           
+    1 er Diseño: Fue descartado por que era  confuso, se decifraba automáticamente el texto ingresado y solo tenia un boton  de cifrar.
+    
     2do diseño: Se utilizó 3 botones, uno para cifrar y el otro para decifrar. A los usuarios les gusto el diseño por que es mas entendible y aparte tiene un boton que elimina el texto ingresado.
 
-     ![PrototipadoBalsamiq](https://user-images.githubusercontent.com/52015985/66841052-ace91000-ef2e-11e9-8e1a-26a22f03f2a6.jpg)
+     
   5. Imagen del prototipo final.
  
 
