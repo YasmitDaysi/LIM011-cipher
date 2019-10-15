@@ -160,6 +160,7 @@ Debe contener lo siguiente:
 
     
   5. Imagen del prototipo final.
+  
       ![PrototipadoBalsamiq](https://user-images.githubusercontent.com/52015985/66853643-6521b300-ef45-11e9-99f3-c52f60a69373.jpg)
 
 #### Visualmente (HTML5 y CSS3)
