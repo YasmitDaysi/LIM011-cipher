@@ -136,7 +136,7 @@ Debe contener lo siguiente:
 * Un título con el nombre de tu proyecto
   - Cifrado Cesar.
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
-- "Cifrado Cesar" es una app que permite cifrar y descifrar el mensaje ingresado por el usuario con la cantidad de desplazamiento a elección. 
+   - "Cifrado Cesar" es una app que permite cifrar y descifrar el mensaje ingresado por el usuario con la cantidad de desplazamiento a elección. 
 
 * La imagen final de tu proyecto.
    ![ImagenFinal](https://user-images.githubusercontent.com/52015985/66841163-e1f56280-ef2e-11e9-89d3-c34d54f25956.png)
@@ -147,20 +147,20 @@ Debe contener lo siguiente:
   2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
     usuarios.
      - El usuario 1 ingresa un mensaje y encripta, Envia el mensaje por cualquier medio de comunicación.
-     - El usuario 2 al quien se envio el mensaje encriptado recibe y desencripta el mensaje y puede visualizar el contenido del mensaje.
+     - El usuario 2 al quien se envio el mensaje encriptado recibe y desencripta el mensaje y puede visualizar el   contenido del mensaje.
 
-     El objetivo del proyecto es preservar la confidencialidad de la información del usuario mediante la codificación; no hay limitaciones en cuanto al público objetivo, dado que quien quiera preservar algo de privacidad de su información a compartir es un usuario potencial.
+     - El objetivo del proyecto es preservar la confidencialidad de la información del usuario mediante la codificación; no hay limitaciones en cuanto al público objetivo, dado que quien quiera preservar algo de privacidad de su información a compartir es un usuario potencial.
      
   3. Luego colocarás la foto de tu primer prototipo en papel.
       ![prototipado1](https://user-images.githubusercontent.com/52015985/66838134-c471ca00-ef29-11e9-8764-e4bec2f62512.jpeg)
 
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
-    1er Diseño: Fue descartado por que era  confuso, se decifraba automáticamente el texto ingresado y solo tenia un boton  de cifrar.
-    2do diseño: Se utilizó 3 botones, uno para cifrar y el otro para decifrar. A los usuarios les gusto el diseño por que es mas entendible y aparte tiene un boton que elimina el texto ingresado.
+      - 1er Diseño: Fue descartado por que era  confuso, se decifraba automáticamente el texto ingresado y solo tenia un    boton  de cifrar.
+      - 2do diseño: Se utilizó 3 botones, uno para cifrar y el otro para decifrar. A los usuarios les gusto el diseño por   que es mas entendible y aparte tiene un boton que elimina el texto ingresado.
 
     
   5. Imagen del prototipo final.
-    ![PrototipadoBalsamiq](https://user-images.githubusercontent.com/52015985/66841052-ace91000-ef2e-11e9-8e1a-26a22f03f2a6.jpg)
+    - ![PrototipadoBalsamiq](https://user-images.githubusercontent.com/52015985/           66841052-ace91000-ef2e-11e9-8e1a-26a22f03f2a6.jpg)
 
 #### Visualmente (HTML5 y CSS3)
 
@@ -349,8 +349,8 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 ### UX
 ​
 - [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ ] Crear prototipos para obtener feedback e iterar.
-- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [x] Crear prototipos para obtener feedback e iterar.
+- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
 ​
