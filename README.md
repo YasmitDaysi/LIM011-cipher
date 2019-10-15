@@ -135,8 +135,9 @@ Estos puntos los presentarás en el `README.md`.
 Debe contener lo siguiente:
 * Cifrado Cesar.
 * "Cifrado Cesar" es una app que permite cifrar y descifrar el mensaje ingresado por el usuario con la cantidad de desplazamiento a elección. 
-* La imagen final de tu proyecto.
 ![ImagenFinal](https://user-images.githubusercontent.com/52015985/66841163-e1f56280-ef2e-11e9-89d3-c34d54f25956.png)
+* La imagen final de tu proyecto.
+
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
     producto.
@@ -154,8 +155,10 @@ Debe contener lo siguiente:
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
     1er Diseño: Fue descartado por que era  confuso, se decifraba automáticamente el texto ingresado y solo tenia un boton  de cifrar.
     2do diseño: Se utilizó 3 botones, uno para cifrar y el otro para decifrar. A los usuarios les gusto el diseño por que es mas entendible y aparte tiene un boton que elimina el texto ingresado.
+
+     ![PrototipadoBalsamiq](https://user-images.githubusercontent.com/52015985/66841052-ace91000-ef2e-11e9-8e1a-26a22f03f2a6.jpg)
   5. Imagen del prototipo final.
-  ![PrototipadoBalsamiq](https://user-images.githubusercontent.com/52015985/66841052-ace91000-ef2e-11e9-8e1a-26a22f03f2a6.jpg)
+ 
 
 #### Visualmente (HTML5 y CSS3)
 
@@ -302,40 +305,40 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 ​
 ### UX
 ​
-- [no] Diseñar la aplicación pensando y entendiendo al usuario.
-- [si] Crear prototipos para obtener feedback e iterar.
-- [si] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
+- [x] Crear prototipos para obtener feedback e iterar.
+- [x] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
 ​
-- [no] Uso correcto de HTML semántico.
-- [si] Uso de selectores de CSS.
-- [no] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [ ] Uso correcto de HTML semántico.
+- [x] Uso de selectores de CSS.
+- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 ​
 ### DOM
 ​
-- [no] Uso de selectores del DOM.
-- [si] Manejo de eventos del DOM.
-- [no] Manipulación dinámica del DOM.
+- [ ] Uso de selectores del DOM.
+- [x] Manejo de eventos del DOM.
+- [ ] Manipulación dinámica del DOM.
 ​
 ### Javascript
 ​
-- [no] Manipulación de strings.
-- [no] Uso de condicionales (if-else | switch).
-- [no] Uso de bucles (for | do-while).	
-- [no] Uso de funciones (parámetros | argumentos | valor de retorno).
-- [no] Declaración correcta de variables (const & let).
+- [ ] Manipulación de strings.
+- [ ] Uso de condicionales (if-else | switch).
+- [ ] Uso de bucles (for | do-while).	
+- [ ] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [ ] Declaración correcta de variables (const & let).
 ​
 ### Testing
-- [no ] Testeo de tus funciones.
+- [ ] Testeo de tus funciones.
 ​
 ### Git y GitHub
-- [no] Comandos de git (add | commit | pull | status | push).
-- [no] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [ ] Comandos de git (add | commit | pull | status | push).
+- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 ​
 ### Buenas prácticas de desarrollo
-- [no] Uso de identificadores descriptivos (Nomenclatura | Semántica).
-- [no] Uso de linter para seguir buenas prácticas (ESLINT).
+- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [ ] Uso de linter para seguir buenas prácticas (ESLINT).
 Collapse
 ## Objetivos de aprendizaje Tarjeta de crédito válida
 ​
@@ -343,41 +346,41 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 ​
 ### UX
 ​
-- [no] Diseñar la aplicación pensando y entendiendo al usuario.
-- [si] Crear prototipos para obtener feedback e iterar.
-- [si] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
+- [ ] Crear prototipos para obtener feedback e iterar.
+- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 ​
 ### HTML y CSS
 ​
-- [no] Uso correcto de HTML semántico.
-- [si] Uso de selectores de CSS.
-- [no] Construir tu aplicación respetando el diseño realizado (maquetación).
+- [ ] Uso correcto de HTML semántico.
+- [ ] Uso de selectores de CSS.
+- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
 ​
 ### DOM
 ​
-- [no] Uso de selectores del DOM.
-- [no] Manejo de eventos del DOM.
-- [no] Manipulación dinámica del DOM.
+- [ ] Uso de selectores del DOM.
+- [ ] Manejo de eventos del DOM.
+- [ ] Manipulación dinámica del DOM.
 ​
 ### Javascript
 ​
-- [no] Manipulación de strings.
-- [no] Uso de condicionales (if-else | switch).
-- [no] Uso de bucles (for | do-while).
-- [no] Uso de funciones (parámetros | argumentos | valor de retorno).
-- [no] Declaración correcta de variables (const & let).
-- [no] Uso de ES Modules (import | export).
+- [ ] Manipulación de strings.
+- [ ] Uso de condicionales (if-else | switch).
+- [ ] Uso de bucles (for | do-while).
+- [ ] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [ ] Declaración correcta de variables (const & let).
+- [ ] Uso de ES Modules (import | export).
 ​
 ### Testing
-- [no] Testeo de tus funciones.
+- [ ] Testeo de tus funciones.
 ​
 ### Git y GitHub
-- [no] Comandos de git (add | commit | pull | status | push).
-- [no] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [ ] Comandos de git (add | commit | pull | status | push).
+- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 ​
 ### Buenas prácticas de desarrollo
-- [no] Organizar y dividir el código en módulos (Modularización).
-- [no] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [ ] Organizar y dividir el código en módulos (Modularización).
+- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
  
 
 
