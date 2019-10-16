@@ -1,6 +1,3 @@
-global.window = global;
-require('../src/cipher');
-
 describe('cipher', () => {
   it('debería ser un object', () => {
     expect(typeof cipher).toBe('object');
