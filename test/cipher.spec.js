@@ -1,8 +1,11 @@
+global.window = global;
+require('../src/cipher');
+
 describe('cipher', () => {
   it('debería ser un object', () => {
-    expect(typeof cipher).toBe('object');
+    expect( cipher).toBe('object');
   });
-  describe('cipher.encode', () => {
+  describe('cipher.encode', () => {// 
     it('debería ser una función', () => {
       expect(typeof cipher.encode).toBe('function');
     });
@@ -13,7 +16,7 @@ describe('cipher', () => {
      it('debería retornar "hijklmnopqrstuvwxyzabcdefg" para "abcdefghijklmnopqrstuvwxyz" with offset 33', () => {
      expect(cipher.encode(33, 'abcdefghijklmnopqrstuvwxyz')).toBe('hijklmnopqrstuvwxyzabcdefg');
     });
-    it('deria retornar "3456789012" para "0123456789" with offset 33', () =>{
+    it('deria retornar "34567 89012" para "0123456789" with offset 33', () =>{
       expect(cipher.encode(33,'0123456789')).toBe('3456789012');
     });
 
